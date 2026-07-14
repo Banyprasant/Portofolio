@@ -1,8 +1,8 @@
 <script setup>
 const snapshots = [
-  { id: 1, src: 'public/images/FotoSnap3.webp', alt: 'Cuplikan momen Albany 1' },
-  { id: 2, src: 'public/images/FotoSnap2.webp', alt: 'Cuplikan momen Albany 2' },
-  { id: 3, src: 'public/images/FotoSnap1.webp', alt: 'Cuplikan momen Albany 3' },
+  { id: 1, src: 'public/images/FotoSnap3.jpg', alt: 'Cuplikan momen Albany 1' },
+  { id: 2, src: 'public/images/FotoSnap2.jpg', alt: 'Cuplikan momen Albany 2' },
+  { id: 3, src: 'public/images/FotoSnap1.jpg', alt: 'Cuplikan momen Albany 3' },
 ]
 </script>
 
